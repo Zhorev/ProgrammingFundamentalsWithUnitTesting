@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01USDToEUR", "01USDToEUR\01USDToEUR.csproj", "{4ABA6BFC-3F5F-46A5-8428-B2EBE91DE79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02FourOperations", "02FourOperations\02FourOperations.csproj", "{5354B5B4-D5C3-4AB8-A43B-A1EF19D6EF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Market", "03Market\03Market.csproj", "{8F722EC4-E26D-466D-A08E-B031FFD383DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Tiles", "04Tiles\04Tiles.csproj", "{1A10D991-1427-477E-8D60-1387F26F5EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05DepositCalculator", "05DepositCalculator\05DepositCalculator.csproj", "{D97A1032-332D-4671-AB60-CD8336A2E597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06MandatoryLiterature", "06MandatoryLiterature\06MandatoryLiterature.csproj", "{D9370996-4AC2-4718-95AD-A963D0B5B29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07SuppliesForSchool", "07SuppliesForSchool\07SuppliesForSchool.csproj", "{CF97547B-7C41-4E79-9FF6-E81E3D20CC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABA6BFC-3F5F-46A5-8428-B2EBE91DE79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA6BFC-3F5F-46A5-8428-B2EBE91DE79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA6BFC-3F5F-46A5-8428-B2EBE91DE79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA6BFC-3F5F-46A5-8428-B2EBE91DE79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5354B5B4-D5C3-4AB8-A43B-A1EF19D6EF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5354B5B4-D5C3-4AB8-A43B-A1EF19D6EF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5354B5B4-D5C3-4AB8-A43B-A1EF19D6EF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5354B5B4-D5C3-4AB8-A43B-A1EF19D6EF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F722EC4-E26D-466D-A08E-B031FFD383DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F722EC4-E26D-466D-A08E-B031FFD383DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F722EC4-E26D-466D-A08E-B031FFD383DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F722EC4-E26D-466D-A08E-B031FFD383DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A10D991-1427-477E-8D60-1387F26F5EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A10D991-1427-477E-8D60-1387F26F5EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A10D991-1427-477E-8D60-1387F26F5EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A10D991-1427-477E-8D60-1387F26F5EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97A1032-332D-4671-AB60-CD8336A2E597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97A1032-332D-4671-AB60-CD8336A2E597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97A1032-332D-4671-AB60-CD8336A2E597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97A1032-332D-4671-AB60-CD8336A2E597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9370996-4AC2-4718-95AD-A963D0B5B29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9370996-4AC2-4718-95AD-A963D0B5B29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9370996-4AC2-4718-95AD-A963D0B5B29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9370996-4AC2-4718-95AD-A963D0B5B29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF97547B-7C41-4E79-9FF6-E81E3D20CC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF97547B-7C41-4E79-9FF6-E81E3D20CC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF97547B-7C41-4E79-9FF6-E81E3D20CC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF97547B-7C41-4E79-9FF6-E81E3D20CC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA9FBEC-E018-42DB-A1A5-47568C5C0767}
+	EndGlobalSection
+EndGlobal
